@@ -1,0 +1,2 @@
+order_book_id,board_type,sector_code,yield_rate,month,date,ep_ratio_ttm,pb_ratio_ttm,sp_ratio_ttm,MACD_DIFF,MACD_DEA,MACD_HIST,RSI10,SY,BIAS20,VOL30,VOL60,VOL120,VOLT20,VOLT60,AR,BR
+000001.XSHE,MainBoard,Financials,,7,2012-01-13,0.11444885657771782,1.8237078835235674,0.3164850504646099,,,,,,,,,,,,,

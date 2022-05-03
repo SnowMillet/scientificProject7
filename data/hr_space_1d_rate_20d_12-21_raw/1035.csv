@@ -1,0 +1,2 @@
+order_book_id,board_type,sector_code,yield_rate,month,date,ep_ratio_ttm,pb_ratio_ttm,sp_ratio_ttm,MACD_DIFF,MACD_DEA,MACD_HIST,RSI10,SY,BIAS20,VOL30,VOL60,VOL120,VOLT20,VOLT60,AR,BR
+600276.XSHG,MainBoard,HealthCare,,1035,2016-04-12,0.021418472203476598,10.59474041754048,0.09602235007619606,,,,,,,,,,,,,

@@ -1,0 +1,2 @@
+order_book_id,board_type,sector_code,yield_rate,month,date,ep_ratio_ttm,pb_ratio_ttm,sp_ratio_ttm,MACD_DIFF,MACD_DEA,MACD_HIST,RSI10,SY,BIAS20,VOL30,VOL60,VOL120,VOLT20,VOLT60,AR,BR
+600066.XSHG,MainBoard,ConsumerDiscretionary,,551,2014-04-18,0.08471987244753933,2.7164132669130208,1.0270007945672042,,,,,,,,,,,,,
